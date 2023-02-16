@@ -1,4 +1,4 @@
-package by.sologub.model;
+package by.shumchenia.model;
 
 import java.time.LocalDate;
 

@@ -1,4 +1,4 @@
-package by.sologub.model;
+package by.shumchenia.model;
 
 public class Car {
     private int id;
